@@ -1,0 +1,150 @@
+
+.Avatar
+{
+    border-radius: 250px;
+    width: 300px;
+    height: 300px;
+    margin-left: 80px;
+    padding-top: 10px;
+}
+
+.Fondo1
+{
+    width: 30%;
+    height: 200vh;
+    background: #17ADA4;
+    margin-left: auto;
+}
+
+.Titulo
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 40px;
+}
+
+
+.Titulo2
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 30px;
+}
+
+.Titulo1
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: inherit;
+    font-size: 25px;
+}
+
+.Titulo3
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+}
+
+.Titulo5
+{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+}
+
+
+.Titulo4
+{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    font-style: normal;
+    font-size: 25px;
+}
+
+
+.Fondo
+{
+    
+    height: 200vh;
+    width: 100%;
+    background:#8F8F8F;
+    display: flexbox;
+
+}
+
+ .Cuadro1{
+   
+    display: block;
+    padding: 10px;
+    width: 20%;
+    height: 20%;
+    
+}
+
+.Cuadro1{
+   margin: 15px;
+   background: #696969; 
+   margin-left: 110px;
+   box-shadow: #393030;
+   float: left;
+   
+}
+
+.Cuadro2{
+   
+    display: block;
+    padding: 10px;
+    width: 20%;
+    height: 20%;
+    
+}
+
+.Cuadro2{
+    margin: 25px;
+    background: #696969; 
+    margin-left: 110px; 
+    float: none;
+    
+ }
+
+.Texto
+{
+   
+    font-weight: bold;
+    color: #393030;
+    font-style: normal;
+    font-size: 15px;
+}
+.Texto1
+{
+    text-align: center ;
+    color: white;
+    font-style: normal;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    border-bottom-color: #17ADA4;
+    line-height: 1pt;
+    padding-top: 20px;
+    
+}
+
+.Letra
+{
+color: white;  
+font-weight: bold;
+font-style: normal;
+margin-top: 10px;
+
+}
+
